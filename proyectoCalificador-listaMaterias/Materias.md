@@ -90,14 +90,16 @@ Taller Técnico Profesional II
 6º
 Alumnos
 Materias
-Lengua y literatura
 Lengua Extranjera
 Educación Física
-Análisis Matemático II
+Economía
 Legales II
-Proyecto III
+Proyecto IV
 Diseño Convencional y Asistido
 Estructuras II
 Técnicas de Construcción
-Instalaciones Sanitarias
-Taller Técnico Profesional II
+Instalaciones Electromecánicas
+Topografía
+Asesoramiento Gestión y Dirección de Obras
+Prácticas Profesionalizantes
+Taller Técnico Profesional IV

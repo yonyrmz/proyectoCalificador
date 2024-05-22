@@ -2,77 +2,78 @@
 chcp 65001 > nul
 md "Cursos"
 cd "Cursos"
-    md "1º"
-    cd "1º"
-        md "1º - A"
-        cd "1º - A"
-            1º - A/listaAlumnos.md
-            echo. >listaAlumnos.md
+    md "1"
+    cd "1"
+        md "1-A"
+        cd "1-A"
+            echo. >listaAlumnos-1-A.md
+            echo. >Materias-1-A.md
     cd ..
-        md "1º - B"
-        cd "1º - B"
-            1º - B/listaAlumnos.md
-            echo. >listaAlumnos.md
+        md "1-B"
+        cd "1-B"
+            echo. >listaAlumnos-1-B.md
+            echo. >Materias-1-B.md
         cd ..
-        md "1º - C"
-        cd "1º - C"
-            1º - C/listaAlumnos.md
-            echo. >listaAlumnos.md
+        md "1-C"
+        cd "1-C"
+            echo. >listaAlumnos-1-C.md
+            echo. >Materias-1-C.md
     cd ..
 cd ..
-    md "2º"
-    cd "2º"
-        md "2º - A"
-        cd "2º - A"
-            2º - A/listaAlumnos.md
-            echo. >listaAlumnos.md
+    md "2"
+    cd "2"
+        md "2-A"
+        cd "2-A"
+            echo. >listaAlumnos-2-A.md
+            echo. >Materias-2-A.md
+            
     cd ..
-        md "2º - B"
-        cd "2º - B"
-            2º - B/listaAlumnos.md
-            echo. >listaAlumnos.md
+        md "2-B"
+        cd "2-B"
+            echo. >listaAlumnos-2-B.md
+            echo. >Materias-2-B.md
         cd ..
-        md "2º - C"
-        cd "2º - C"
-            2º - C/listaAlumnos.md
-            echo. >listaAlumnos.md
+        md "2-C"
+        cd "2-C"
+            echo. >listaAlumnos-2-C.md
+            echo. >Materias-2-C.md
     cd ..
 cd ..
-    md "3º"
-    cd "3º"
-        md "3º - A"
-        cd "3º - A"
-                3º - A/listaAlumnos.md
-                echo. >listaAlumnos.md
+    md "3"
+    cd "3"
+        md "3-A"
+        cd "3-A"
+            echo. >listaAlumnos-3-A.md
+            echo. >Materias-3-A.md
     cd ..
-        md "3º - B"
-        cd "3º - B"
-            3º - B/listaAlumnos.md
-                echo. >listaAlumnos.md
+        md "3-B"
+        cd "3-B"
+            echo. >listaAlumnos-3-B.md
+            echo. >Materias-3-B.md
     cd ..
 cd ..
-        md "4º"
-        cd "4º"
-        md "4º - A"
-        cd "4º - A"
-            4º - A/listaAlumnos.md
-                echo. >listaAlumnos.md
+        md "4"
+        cd "4"
+        md "4-A"
+        cd "4-A"
+            echo. >listaAlumnos-4-A.md
+            echo. >Materias-4-A.md
     cd ..
 cd ..    
-        md "5º"
-        cd "5º"
-        md "5º - A"
-        cd "5º - A"
-            5º - A/listaAlumnos.md
-                echo. >listaAlumnos.md
+        md "5"
+        cd "5"
+        md "5-A"
+        cd "5-A"
+            echo. >listaAlumnos-5-A.md
+            echo. >Materias-5-A.md
     cd ..
 cd ..
-        md "6º"
-        cd "6º"
-        md "6º - A"
-        cd "6º - A"
-            6º - A/listaAlumnos.md
-                echo. >listaAlumnos.md
+        md "6"
+        cd "6"
+        md "6-A"
+        cd "6-A"
+            echo. >listaAlumnos-6-A.md
+            echo. >Materias-6-A.md
     cd ..
 cd ..
 exit
