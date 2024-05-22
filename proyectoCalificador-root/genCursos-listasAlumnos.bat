@@ -75,3 +75,4 @@ cd ..
                 echo. >listaAlumnos.md
     cd ..
 cd ..
+exit
